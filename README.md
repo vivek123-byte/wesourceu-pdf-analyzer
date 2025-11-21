@@ -162,6 +162,9 @@ Vite will serve the app at :http://localhost:5173
      - Confidence
 
 ---
+## preview
+![PDF Rule Checker Screenshot](screenshots/preview1.png)
+![PDF Rule Checker Screenshot2](screenshots/preview.png)
 
 ## Validation & Error Handling
 
